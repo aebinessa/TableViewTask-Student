@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+
+struct Student {
+    var name: String
+    var GPA: Double
+    var profileImage: String
+}
